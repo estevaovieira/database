@@ -1,0 +1,16 @@
+{
+    "carros": [
+      {
+        "marca": "fiat",
+        "modelo": "palio",
+        "ano": "2020",
+        "id": 1
+      },
+      {
+        "marca": "Ford",
+        "modelo": "ka",
+        "ano": "2000",
+        "id": 2
+      }
+    ]
+  }
